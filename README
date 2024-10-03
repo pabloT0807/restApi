@@ -1,0 +1,2 @@
+el proyecto esta distribuido por archivos controller , dao , daoImpl y entidad en el proyecto
+se encuentra la clase main en la ruta src/main/java/CrudApplication para correr.
